@@ -26,7 +26,7 @@ import { version } from './package.json';
 export default {
     input: 'src/main.js',
     output: {
-        file: 'dist/index.js',
+        file: 'dist/drawbackground.js',
         format: 'umd'
     },
     moduleName: 'drawbackground',

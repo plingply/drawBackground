@@ -1,7 +1,7 @@
 # drawBackground中文文档
 地址：https://github.com/plingply/drawBackground.git
 
-测试地址：http://www.callback.ren/canvas/background
+测试地址：http://www.callback.ren
 
 import drawbackground from 'drawBackground'
 

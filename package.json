@@ -1,8 +1,8 @@
 {
     "name": "drawbackground",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "canvas drawBackground background bj",
-    "main": "dist/index.js",
+    "main": "dist/drawbackground.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "build": "rollup --config rollup.config.prod.js --watch",
