@@ -1,6 +1,6 @@
 /**
  * drawbackground 1.0.0
- * created at Sun Feb 04 2018 11:53:06 GMT+0800 (CST)
+ * created at Sun Feb 04 2018 12:00:42 GMT+0800 (CST)
  */
 
 (function (global, factory) {

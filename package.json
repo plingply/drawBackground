@@ -1,5 +1,5 @@
 {
-    "name": "drawBackground",
+    "name": "drawbackground",
     "version": "1.0.0",
     "description": "canvas drawBackground background bj",
     "main": "dist/index.js",
@@ -12,7 +12,7 @@
     "license": "ISC",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/plingply/ve-touch.git"
+        "url": "git+https://github.com/plingply/drawBackground.git"
     },
     "devDependencies": {
         "autoprefixer": "^7.1.6",
@@ -34,5 +34,13 @@
         "rollup-plugin-progress": "^0.4.0",
         "rollup-plugin-replace": "^2.0.0",
         "rollup-watch": "^4.3.1"
-    }
+    },
+    "bugs": {
+        "url": "https://github.com/plingply/drawBackground/issues"
+    },
+    "homepage": "https://github.com/plingply/drawBackground#readme",
+    "directories": {
+        "test": "test"
+    },
+    "dependencies": {}
 }
